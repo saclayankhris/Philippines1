@@ -1,7 +1,7 @@
 inputs:
   - name: reference_data
-    metadata: https://data.nextstrain.org/files/ncov/open/reference/metadata.tsv.xz
-    sequences: https://data.nextstrain.org/files/ncov/open/reference/sequences.fasta.xz
+    metadata: https://data.nextstrain.org/files/ncov/open/global/metadata.tsv.xz
+    sequences: https://data.nextstrain.org/files/ncov/open/global/sequences.fasta.xz
   - name: custom_data
     metadata: data/Philippines.metadata.tsv
     sequences: data/Philippines.sequences.fasta
