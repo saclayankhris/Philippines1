@@ -77,7 +77,7 @@ subsampling:
       # As with the contextual data from the USA above, tune
       # this value to get a reasonable number of strains in
       # your build.
-      max_sequences: 2
+      max_sequences: 2300
       priorities:
         type: proximity
         focus: custom_sample
